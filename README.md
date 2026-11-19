@@ -15,3 +15,18 @@
 - 报错：
 - 解决方式：
 # Reactive-Camp-Learning
+
+## 本地测试结果
+
+- 日期：2026-11-19
+- 项目：Reactive Builder Camp Starter
+- Foundry 编译：成功
+- 测试结果：通过
+- Failed tests：0
+
+## Day 2 – Foundry Basics
+
+- What I learned:
+- Commands practiced:
+- Problems encountered:
+- Solutions:
